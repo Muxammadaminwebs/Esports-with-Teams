@@ -1,0 +1,14 @@
+.wrapperServices{
+    justify-content: space-between;
+    display: flex;
+}
+@media (max-width:768px){
+    .wrapperServices{
+        flex-wrap: wrap;
+    }
+}
+@media (max-width:728px){
+   .wrapperServices{
+    justify-content: center;
+   }
+}

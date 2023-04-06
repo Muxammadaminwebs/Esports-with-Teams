@@ -1,0 +1,26 @@
+.recomendedWrap1{
+    max-width: 795px;
+    border: 2px solid red;
+    padding: 38px 90px;
+    border-radius: 14px;
+}
+.recomendedWrap1-title{
+    font-family: Cairo;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 67px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #11142D;
+
+}
+.swiper-slide{
+    width: 120px !important;
+}
+.mySwiper{
+    gap: 100px !important;
+    width: 100% !important;
+}
+.swiper-reco{
+    width: 141px !important;
+}

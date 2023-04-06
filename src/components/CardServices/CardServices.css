@@ -1,0 +1,32 @@
+.cardServices {
+    gap: 25px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.services-body {
+    margin-top: 10px;
+}
+
+.services-body h4 {
+    font-family: Cairo;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #11142D;
+}
+
+.services-body p {
+    max-width: 267px;
+    width: 100%;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #AAAAAA;
+    margin-top: 10px;
+}
